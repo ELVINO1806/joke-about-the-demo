@@ -10,7 +10,7 @@
 // agent treats it differently. The run that was a triumph all week
 // becomes, in front of everyone, the moment somebody has to write the
 // apology. Rehearsal proves the agent can do the work; the demo proves
-// it can also do the aftermath.
+// it can also handle the aftermath.
 //
 // Why it is true: agents improvise. The same system that happily wrote
 // the code, the tests, and the fix will just as readily produce the
